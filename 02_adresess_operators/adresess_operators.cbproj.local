@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025.07.15 10:42:44.979,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.07.15 10:42:45.001,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.07.15 10:43:45.534,C:\Users\USER\Documents\CppProjects\Cpp_Davis\02_adresess_operators\adresess_operatorsPCH1.h=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.07.15 10:43:45.546,C:\Users\USER\Documents\CppProjects\Cpp_Davis\02_adresess_operators\File1.cpp=C:\Users\USER\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.07.15 10:43:45.559,C:\Users\USER\Documents\CppProjects\Cpp_Davis\02_adresess_operators\adresess_operators.cbproj=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2025.07.15 10:43:53.066,C:\Users\USER\Documents\CppProjects\Cpp_Davis\02_adresess_operators\main.cpp=C:\Users\USER\Documents\CppProjects\Cpp_Davis\02_adresess_operators\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
