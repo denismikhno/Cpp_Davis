@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025.07.17 12:27:55.083,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.07.17 12:27:55.117,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.07.17 12:44:19.892,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\03_using_pointers\using_pointersPCH1.h=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.07.17 12:44:19.908,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\03_using_pointers\File1.cpp=C:\Users\USER\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.07.17 12:44:19.924,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\03_using_pointers\using_pointers.cbproj=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2025.07.17 12:44:28.931,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\03_using_pointers\main.cpp=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\03_using_pointers\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
