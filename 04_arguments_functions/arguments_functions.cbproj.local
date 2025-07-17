@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025.07.17 15:58:22.463,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.07.17 15:58:22.489,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.07.17 16:00:23.330,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\04_arguments_functions\arguments_functionsPCH1.h=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.07.17 16:00:23.342,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\04_arguments_functions\File1.cpp=C:\Users\USER\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.07.17 16:00:23.347,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\04_arguments_functions\arguments_functions.cbproj=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2025.07.17 16:00:27.983,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\04_arguments_functions\main.cpp=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\04_arguments_functions\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
