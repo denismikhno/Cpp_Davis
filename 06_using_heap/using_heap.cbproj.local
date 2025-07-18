@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025.07.18 12:38:01.717,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.07.18 12:38:01.749,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.07.18 12:47:46.495,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\06_using_heap\using_heapPCH1.h=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.07.18 12:47:46.503,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\06_using_heap\File1.cpp=C:\Users\USER\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.07.18 12:47:46.540,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\06_using_heap\using_heap.cbproj=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2025.07.18 12:47:51.574,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\06_using_heap\main.cpp=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Cpp_Davis\06_using_heap\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
